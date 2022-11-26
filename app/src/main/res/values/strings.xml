@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pruebafirebasekotlin</string>
+    <string name="sign_in">iniciar sesion</string>
+
+
+    // Cerrar sesion
+
+    <string name="sign_out">cerrar sesion</string>
+    <string name="default_web_client_id">ID de cliente web predeterminado</string>
+
+</resources>
